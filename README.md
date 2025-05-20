@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ajaylearning/practice/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ajaylearning/practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajaylearning/practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ajaylearning/practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ajaylearning/practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ajaylearning/practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ajaylearning/practice/tree/master/0268-missing-number) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajaylearning/practice/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ajaylearning/practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
