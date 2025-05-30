@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ajaylearning/practice/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ajaylearning/practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ajaylearning/practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ajaylearning/practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ajaylearning/practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ajaylearning/practice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ajaylearning/practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ajaylearning/practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ajaylearning/practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
