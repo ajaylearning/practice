@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajaylearning/practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ajaylearning/practice/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/ajaylearning/practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ajaylearning/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ajaylearning/practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ajaylearning/practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajaylearning/practice/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ajaylearning/practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
