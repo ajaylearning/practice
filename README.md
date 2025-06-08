@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ajaylearning/practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ajaylearning/practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ajaylearning/practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/ajaylearning/practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ajaylearning/practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ajaylearning/practice/tree/master/0205-isomorphic-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaylearning/practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
