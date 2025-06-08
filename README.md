@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ajaylearning/practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ajaylearning/practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ajaylearning/practice/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ajaylearning/practice/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ajaylearning/practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ajaylearning/practice/tree/master/0205-isomorphic-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaylearning/practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/ajaylearning/practice/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajaylearning/practice/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ajaylearning/practice/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
