@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/ajaylearning/practice/tree/master/2032-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ajaylearning/practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
