@@ -49,7 +49,7 @@ class Solution {
             s=s.next;
             l2=l2.next;
         }
-         if(l1==null && l2== null && carry!=0){
+         if( carry!=0){
             ListNode d= new ListNode(carry);
             s.next=d;
         }
